@@ -10,7 +10,7 @@ A segurança é um requisito não funcional para garantir a integridade, confide
 
 ### Justificativas
 
-Com a crescente adoção de LLMs em diversos setores, garantir a segurança desses sistemas é vital para prevenir ataques que podem comprometer dados sensíveis e a privacidade dos usuários. Segundo [Santos et al. (2023)](https://example.com), falhas na segurança dos sistemas conversacionais podem resultar em vazamentos de dados e violações de privacidade. Portanto, é imperativo implementar medidas eficazes para proteger esses sistemas contra tais ameaças.
+Com a crescente adoção de LLMs em diversos setores, garantir a segurança desses sistemas é vital para prevenir ataques que podem comprometer dados sensíveis e a privacidade dos usuários. As falhas na segurança dos sistemas conversacionais podem resultar em vazamentos de dados e violações de privacidade. Portanto, é imperativo implementar medidas eficazes para proteger esses sistemas contra tais ameaças.
 
 ## Solução Proposta
 
@@ -42,7 +42,3 @@ Com a crescente adoção de LLMs em diversos setores, garantir a segurança dess
 A proposta apresentada visa melhorar a segurança dos sistemas conversacionais baseados em LLMs através da implementação de medidas específicas e eficazes. A integração dos módulos de autenticação, filtragem de entrada, monitoramento, criptografia e resposta a incidentes proporciona uma abordagem robusta para proteger o sistema contra uma variedade de ameaças.
 
 A implementação desta solução pode exigir um esforço significativo, incluindo a configuração e integração de tecnologias de segurança, bem como a adaptação dos processos existentes para incorporar as novas medidas de proteção. No entanto, o investimento necessário para assegurar a segurança dos sistemas conversacionais é justificável, dado o valor das informações e a necessidade de manter a confiança dos usuários.
-
-## Referências Bibliográficas
-
-SANTOS, J.; OLIVEIRA, A.; SILVA, M. *Segurança em Sistemas Conversacionais: Desafios e Soluções*
