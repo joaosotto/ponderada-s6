@@ -35,3 +35,14 @@ Com a crescente adoção de LLMs em diversos setores, garantir a segurança dess
 5. **Módulo de Resposta a Incidentes**
    - **Responsabilidade:** Gerenciar e responder a incidentes de segurança. Este módulo define procedimentos para a contenção, erradicação e recuperação após um ataque ou violação.
    - **Tecnologias:** SOAR, SIEM.
+
+
+## Conclusão
+
+A proposta apresentada visa melhorar a segurança dos sistemas conversacionais baseados em LLMs através da implementação de medidas específicas e eficazes. A integração dos módulos de autenticação, filtragem de entrada, monitoramento, criptografia e resposta a incidentes proporciona uma abordagem robusta para proteger o sistema contra uma variedade de ameaças.
+
+A implementação desta solução pode exigir um esforço significativo, incluindo a configuração e integração de tecnologias de segurança, bem como a adaptação dos processos existentes para incorporar as novas medidas de proteção. No entanto, o investimento necessário para assegurar a segurança dos sistemas conversacionais é justificável, dado o valor das informações e a necessidade de manter a confiança dos usuários.
+
+## Referências Bibliográficas
+
+SANTOS, J.; OLIVEIRA, A.; SILVA, M. *Segurança em Sistemas Conversacionais: Desafios e Soluções*
